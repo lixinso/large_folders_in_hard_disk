@@ -3,3 +3,6 @@
 
 Mac
 $ sudo du -h -d 1
+
+Linux?
+$ du -h --max-depth=1
