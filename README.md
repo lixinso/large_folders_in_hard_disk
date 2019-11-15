@@ -4,6 +4,8 @@
 Mac
 $ sudo du -h -d 1
 
+$ sudo du  -d 2 | sort -n -r | head -n 10
+
 Linux?
 $ du -h --max-depth=1
 
