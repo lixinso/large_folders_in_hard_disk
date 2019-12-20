@@ -6,6 +6,9 @@ $ sudo du -h -d 1
 
 $ sudo du  -d 2 | sort -n -r | head -n 10
 
+- # du -a / | sort -n -r | head -n 10
+https://shapeshed.com/unix-du/
+
 Linux?
 $ du -h --max-depth=1
 
